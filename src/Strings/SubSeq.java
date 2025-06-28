@@ -1,7 +1,6 @@
 package Strings;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class SubSeq {
     public static void main(String[] args) {
